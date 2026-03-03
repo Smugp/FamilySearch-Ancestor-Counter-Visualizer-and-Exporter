@@ -13,7 +13,7 @@ Then, [click here to install](https://gist.github.com/HaroldPetersInskipp/3fb173
 
 Usage
 ------------
-Just navigate to [FamilySearch.org](https://www.familysearch.org/en/tree/pedigree/portrait/) and press the `Start` button seen in the below screenshot (you may need to refresh the page once for the tool to appear).
+Just navigate to [FamilySearch.org](https://www.familysearch.org/en/tree/pedigree/portrait/) sign in and press the `Start` button seen in the below screenshot (you may need to refresh the page once for the tool to appear).
 
 This tool can take a lot of time if your family tree is very large (10,000+), so there is a manual `Stop` button, just press start again to continue.
 
