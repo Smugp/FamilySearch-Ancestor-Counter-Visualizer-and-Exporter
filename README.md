@@ -15,7 +15,7 @@ Usage
 ------------
 Just navigate to [FamilySearch.org](https://www.familysearch.org/en/tree/pedigree/portrait/) and press the `Start` button seen in the below screenshot (you may need to refresh the page once for the tool to appear).
 
-This tool can take a lot of time if your family tree is very large (10,000+), so there is a manual `Stop` button, just press start again to continue. If you leave the page this tool will stop.
+This tool can take a lot of time if your family tree is very large (10,000+), so there is a manual `Stop` button, just press start again to continue.
 
 The `Clear` button will clear all data stored in your web-browsers local storage.
 
@@ -28,6 +28,8 @@ Click on any of the found ansectors to pull up their FamilySearch page.
 You can also export the stored data to a JSON file for further use or record keeping.
 
 You can also drag the tool to another location or minimize it so it doesn't block any existing functions of the website.
+
+NOTE: If you leave the page this tool will stop. It may also time you out from the API and requre you to delete your cookies and disable javascript if you make over 50,000 requests in a day, you can just sign back in and re-enable them again afterwards.
 
 Screenshots
 ------------
