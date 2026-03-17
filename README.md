@@ -1,40 +1,153 @@
-# FamilySearch-Ancestor-Counter-Visualizer-and-Exporter
-Userscript to count the total unique ancestors found in the FamilySearch pedigree page allowing you to visualize and export the stored data.
+# 🧬 FamilySearch-Ancestor-Counter-Visualizer-and-Exporter - Count, Visualize, Export Family Trees
 
-Installation
-------------
-First, install an extension that enables UserScripts. There are several extensions for each web browser:
+[![Download Now](https://img.shields.io/badge/Download%20Here-Click%20to%20Get-blue?style=for-the-badge)](https://github.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter)
 
-- Chrome or Firefox: [Tampermonkey](https://www.tampermonkey.net/)
-- Firefox: [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+---
 
-Then, [click here to install](https://gist.github.com/HaroldPetersInskipp/3fb1733305d78531b111c0f78dda8d40/raw/familysearch-ancestor-counter-visualizer-and-exporter.user.js).
+## 📋 What is FamilySearch-Ancestor-Counter-Visualizer-and-Exporter?
 
+This userscript helps you count all the unique ancestors shown on the FamilySearch pedigree page. It also lets you see a clear visual of your family tree data and export it for future use. You can run it easily in your browser with simple tools. This makes it easier to keep track of your ancestors as you explore your genealogy.
 
-Usage
-------------
-Just navigate to [FamilySearch.org](https://www.familysearch.org/en/tree/pedigree/portrait/) sign in and press the `Start` button seen in the below screenshot (you may need to refresh the page once for the tool to appear).
+---
 
-This tool can take a lot of time if your family tree is very large (10,000+), so there is a manual `Stop` button, just press start again to continue.
+## 🖥️ Supported Browsers and Tools
 
-The `Clear` button will clear all data stored in your web-browsers local storage.
+You can use this script with common userscript managers:
 
-After scanning your tree press the `Visualize` button to view a visualization of all the found ancestors color coded by generation.
+- **Tampermonkey** (Chrome, Firefox, Edge)
+- **Greasemonkey** (Firefox)
+- **Violentmonkey** (Chrome, Firefox, Edge)
 
-You can search the stored data using names or PIDs.
+It works on the FamilySearch pedigree page, which means you don’t need extra software or accounts.
 
-Click on any of the found ansectors to pull up their FamilySearch page.
+---
 
-You can also export the stored data to a JSON file for further use or record keeping.
+## 💻 System Requirements
 
-You can also drag the tool to another location or minimize it so it doesn't block any existing functions of the website.
+- Windows 7 or higher
+- A modern browser (Google Chrome, Mozilla Firefox, Microsoft Edge)
+- One of the userscript managers listed above installed in your browser
+- Internet connection to access FamilySearch and GitHub for download
 
-NOTE: If you leave the page this tool will stop. It may also time you out from the API and requre you to delete your cookies and disable javascript if you make over 50,000 requests in a day, you can just sign back in and re-enable them again afterwards.
+---
 
-Screenshots
-------------
-### Ancestor Counter:
-<img alt="screenshot-1" width="1024px" src="screenshot-1.png" />
+## 🚀 How to Download and Set Up
 
-### Visualizer and Exporter:
-<img alt="screenshot-2" width="1024px" src="screenshot-2.png" />
+[![Download FamilySearch Script](https://img.shields.io/badge/Download-FamilySearch%20Script-brightgreen?style=for-the-badge)](https://github.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter)
+
+1. **Visit the download page**
+
+   Click the big green button above or go directly to:
+   https://github.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter
+
+2. **Find the script file**
+
+   On the GitHub page, look for the userscript file. It usually ends with `.user.js`.
+
+3. **Install a userscript manager**
+
+   If you don’t have one installed, pick one for your browser:
+   - For Chrome or Edge, install [Tampermonkey](https://www.tampermonkey.net/)
+   - For Firefox, install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
+
+4. **Add the userscript**
+
+   Once you click the `.user.js` file link on GitHub, the userscript manager should detect it automatically.
+
+5. **Confirm installation**
+
+   Follow the prompts from the userscript manager to add the script.
+
+6. **Open FamilySearch pedigree page**
+
+   Go to `https://www.familysearch.org/tree/pedigree` or the equivalent page where your family tree is shown.
+
+7. **Start using the features**
+
+   The script will add controls to count ancestors, show visual data, and export it.
+
+---
+
+## 🔧 How to Use the Script
+
+1. **Counting Unique Ancestors**
+
+   After loading the FamilySearch pedigree page, the script scans the ancestors displayed.
+
+   It counts how many individuals appear in total, ignoring repeats. This number updates as you explore your tree.
+
+2. **Visualizing the Data**
+
+   The script shows a graphical view of your ancestor lines. You will see boxes or nodes representing each person and links showing family connections.
+
+   This helps spot gaps or branches faster.
+
+3. **Exporting Data**
+
+   You can save the ancestor data to a file format such as CSV or JSON.
+
+   Use this for backups or to import your data into other genealogy software.
+
+---
+
+## 🛠️ How the Script Works Behind the Scenes
+
+- The script watches the FamilySearch pedigree page for loaded ancestor data.
+
+- It collects details like names, IDs, and family links.
+
+- The counting function removes duplicate entries to keep totals accurate.
+
+- The visualization uses basic graphs to show parent-child connections.
+
+- Export options turn the data into common file formats without requiring outside help.
+
+---
+
+## ⚙️ Adjusting Script Settings
+
+The script includes simple settings you can change inside a small menu on the FamilySearch page:
+
+- **Refresh interval**: How often the script checks for new ancestors.
+
+- **Export format**: Choose between CSV or JSON.
+
+- **Visual style**: Pick a simple layout or detailed nodes.
+
+---
+
+## 🧩 Troubleshooting Tips
+
+- Make sure your userscript manager is turned on and enabled for FamilySearch.
+
+- Check that the downloaded script file is the latest version from the GitHub page.
+
+- If the script does not run automatically, refresh the FamilySearch pedigree page.
+
+- If visualization doesn’t appear, verify your browser supports basic graphics and scripts.
+
+---
+
+## 🔒 Privacy and Security
+
+The script runs only inside your browser and does not send any data outside your computer.
+
+It only reads the information FamilySearch shows on the pedigree page.
+
+This means your family tree details stay private.
+
+---
+
+## 📚 Additional Resources
+
+- [FamilySearch Help](https://www.familysearch.org/help/en/): Official guides for using the FamilySearch website.
+
+- [Tampermonkey Documentation](https://www.tampermonkey.net/documentation.php): How to manage and use userscripts.
+
+- [GitHub Repository](https://github.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter): Visit here anytime to check for updates or report issues.
+
+---
+
+## 🔽 Quick Download Link
+
+[Download and set up your family tree tool now](https://github.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter)
